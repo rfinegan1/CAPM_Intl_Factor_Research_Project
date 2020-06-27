@@ -1,5 +1,0 @@
-This is the first part of the research project that observed the Fama and French Three Factor Model's SMB. We added an international factor by examing beta and
-gamma coefficients. Gamma was calculated in a regression with comparison to the VEA (developed markets) and VEMAX (emerging markets). Portfolios were created by
-weighting each gamma based on market capitalization and sorting based on weighted gamma. Other backtests were involved especially one with regards to SMB. Here we
-created 15 equally weighted portfolios, double sorted with respect to market cap size of the firm and then their international exposure. More details are offered
-in the paper and code in this repository. 
